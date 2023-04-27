@@ -1,1 +1,1 @@
-print('ö')
+print('Tomat')
